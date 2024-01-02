@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there im Kacper 👋
 
 I am in my third year of engineering studies in applied computer science at the University of Lodz, Faculty of Physics and Applied Informatics.
 
