@@ -7,7 +7,7 @@ I am in my third year of engineering studies in applied computer science at the 
        * Linux(in near future)
        * 3D Graphics in 3Ds max
 ## 🔭 I’m currently working on:
-       * Improve my skills in Python technology 😊
+       * Improve my skills in Python technology by doing online courses 😊
 ## 📫 How to reach me:
 * If you have any advice, would like to collaborate on a project or simply ask me a question send me an email at: kacper.florczyk@onet.pl
 * You can find me on LinkedIn too: www.linkedin.com/in/kacper-florczyk
