@@ -5,7 +5,7 @@ I am in my third year of engineering studies in applied computer science at the 
 ## 🌱 I’m currently learning:
        * Python
        * Linux(in near future)
-       * 3D Graphics in 3D max
+       * 3D Graphics in 3Ds max
 ## 🔭 I’m currently working on:
        * Improve my skills in Python technology 😊
 ## 📫 How to reach me:
