@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am in my third year of engineering studies in applied computer science at the University of Lodz, Faculty of Physics and Applied Informatics.
+
+## 🌱 I’m currently learning:
+       * Python
+       * Linux(in near future)
+       * 3D Graphics in 3D max
+## 🔭 I’m currently working on:
+       * Improve my skills in Python technology 😊
+## 📫 How to reach me:
+If you have any advice, would like to collaborate on a project or simply ask me a question send me an email at: kacper.florczyk@onet.pl
+You can find me on LinkedIn too: www.linkedin.com/in/kacper-florczyk
 <!--
 **KacFlor/KacFlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
