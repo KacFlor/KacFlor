@@ -4,10 +4,10 @@ I am in my third year of engineering studies in applied computer science at the 
 
 ## 🌱 I’m currently learning:
        * Python
-       * Linux(in near future)
+       * React and spring
        * 3D Graphics in 3Ds max
 ## 🔭 I’m currently working on:
-       * Improve my skills in Python technology by doing online courses 😊
+       * Improve my skills in Python, React and Spring technology by doing online courses 😊
 ## 📫 How to reach me:
 * If you have any advice, would like to collaborate on a project or simply ask me a question send me an email at: kacper.florczyk@onet.pl
 * You can find me on LinkedIn too: www.linkedin.com/in/kacper-florczyk
