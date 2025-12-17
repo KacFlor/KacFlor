@@ -3,9 +3,9 @@
 I am in my third year of engineering studies in applied computer science at the University of Lodz, Faculty of Physics and Applied Informatics.
 
 ## 🌱 I’m currently learning:
+       * Java
        * Python
        * React and spring
-       * 3D Graphics in 3Ds max
 ## 🔭 I’m currently working on:
        * Improve my skills in Python, React and Spring technology by doing online courses 😊
 ## 📫 How to reach me:
