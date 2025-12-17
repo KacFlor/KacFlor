@@ -7,7 +7,8 @@ I am in my third year of engineering studies in applied computer science at the 
        * Python
        * React and spring
 ## 🔭 I’m currently working on:
-       * Improve my skills in Python, React and Spring technology by doing online courses 😊
+       * Improve my skills in Java, Python, React and Spring technology 😊
+       * Studying Business Management with a specialization in IT Resource Management
 ## 📫 How to reach me:
 * If you have any advice, would like to collaborate on a project or simply ask me a question send me an email at: kacper.florczyk@onet.pl
 * You can find me on LinkedIn too: www.linkedin.com/in/kacper-florczyk
